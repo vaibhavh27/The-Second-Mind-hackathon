@@ -7,7 +7,7 @@ Second Mind AI is an advanced research assistant powered by multiple AI agents. 
 Here's a glimpse of the Second Mind AI interface, showcasing its clean design and core functionalities:
 
 **1. Home Page:**
-![Second Mind AI Home Page](./assets/Home_page.png)
+![Second Mind AI Home Page](./assets/Home_Page.png)
 *   **Overview:** The welcoming home page provides a brief introduction to Second Mind AI's capabilities.
 *   **Navigation:** A persistent sidebar on the left offers easy navigation to "Home" and "Chat" sections, along with access to "Recent Chats" and a "Clear History" option.
 *   **Feature Highlights:** Prominent cards clearly display key features like "Smart Research," "Semantic Search," "Iterative Refinement," "Persistent History," "Research Focused," and "Chat History."
